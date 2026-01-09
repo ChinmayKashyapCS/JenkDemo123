@@ -1,1 +1,2 @@
 print('Namaste')
+print('Hello')
